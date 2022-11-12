@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/ZdLCzQM/2000-600px2.gif)](https://rishavchanda.io)	
+
 <h1 align="center">Hi 👋, I'm Abderrahmen Trabelsi</h1>
 
 
