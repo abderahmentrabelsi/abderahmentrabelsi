@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **MERN , MEAN**
-
 - 📫 How to reach me **abderrahmen.trabelsi@esprit.tn**
 
 - ⚡ Fun fact **I am Funny**
