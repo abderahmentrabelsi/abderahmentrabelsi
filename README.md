@@ -4,6 +4,7 @@
 
 ## 🌐 Socials:
 <a href="https://app.daily.dev/aboudr"><img src="https://api.daily.dev/devcards/v2/5UAk36UioFF8WvLqDCsjU.png?type=wide&r=aly" width="652" alt="Abderrahmen TRABELSI's Dev Card"/></a>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahmen-trabelsi/)
 [![CodeSignal](https://img.shields.io/badge/CodeSignal-%23000000.svg?style=for-the-badge&logo=codesignal&logoColor=white)](https://app.codesignal.com/profile/aboud_trabelsi)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18365494/aboud-tr)
