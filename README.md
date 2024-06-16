@@ -8,4 +8,3 @@
 ![Notable Contributions](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.notable.indepth.svg)
 ![People Related to Repository](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.people.repository.svg)
 ![Recent Activity Charts](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.habits.charts.svg)
-![Repository Contributors](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.contributors.categories.svg)
