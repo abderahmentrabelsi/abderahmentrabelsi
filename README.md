@@ -5,6 +5,4 @@
 ![Follow-up Issues and PRs](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.followup.indepth.svg)
 ![Achievements](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.achievements.compact.svg)
 ![Recent Activity](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.activity.svg)
-![People Related to Repository](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.people.repository.svg)
 ![Recent Activity Charts](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.habits.charts.svg)
-![Repository Contributors](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.contributors.categories.svg)
