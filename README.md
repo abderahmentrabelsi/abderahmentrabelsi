@@ -1,6 +1,5 @@
 ![Isometric Commit Calendar](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.isocalendar.fullyear.svg)
 ![Languages Activity](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.languages.indepth.svg)
-![Stargazers Worldmap](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.stargazers.worldmap.svg)
 ![Starred Topics Icons](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.topics.icons.svg)
 ![Lines of Code Changed](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.lines.svg)
 ![Follow-up Issues and PRs](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.followup.indepth.svg)
