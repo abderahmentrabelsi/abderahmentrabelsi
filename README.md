@@ -6,3 +6,4 @@
 ![Lines of Code Changed](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.lines.svg)
 ![Follow-up Issues and PRs](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.followup.indepth.svg)
 ![Recent Activity Charts](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.habits.charts.svg)
+<a href="https://app.daily.dev/aboudr"><img src="https://api.daily.dev/devcards/v2/5UAk36UioFF8WvLqDCsjU.png?type=wide&r=ae4" width="652" alt="Abderrahmen TRABELSI's Dev Card"/></a>
