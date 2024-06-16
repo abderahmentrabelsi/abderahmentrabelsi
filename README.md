@@ -1,25 +1,8 @@
-# 💫 About Me:
-🔭 Currently diving into Go for new coding adventures.<br>👯 Ask me about my experiences with JavaScript.<br>🤝 Open to tips and insights on mastering Go or JavaScript.<br>📫 How to reach me abderrahmen.trabelsi@esprit.tn
-
-<!-- blog start -->
-<!-- blog end -->
-
-## 🌐 Socials:
-<a href="https://app.daily.dev/aboudr"><img src="https://api.daily.dev/devcards/v2/5UAk36UioFF8WvLqDCsjU.png?type=wide&r=aly" width="652" alt="Abderrahmen TRABELSI's Dev Card"/></a>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahmen-trabelsi/)
-[![CodeSignal](https://img.shields.io/badge/CodeSignal-%23000000.svg?style=for-the-badge&logo=codesignal&logoColor=white)](https://app.codesignal.com/profile/aboud_trabelsi)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18365494/aboud-tr)
-
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abderahmentrabelsi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abderahmentrabelsi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=abderahmentrabelsi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Isometric Commit Calendar](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.isocalendar.fullyear.svg)
+![Languages Activity](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.languages.indepth.svg)
+![Stargazers Worldmap](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.stargazers.worldmap.svg)
+![Starred Topics Icons](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.topics.icons.svg)
+![Lines of Code Changed](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.lines.svg)
+![Follow-up Issues and PRs](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.followup.indepth.svg)
+![Achievements](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.achievements.compact.svg)
+![Recent Activity](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.activity.svg)
