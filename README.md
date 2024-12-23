@@ -1,3 +1,11 @@
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/abderahmentrabelsi?pet-id=658990148718549464"
+    width="600"
+    height="120"
+  />
+</a>
 ![Isometric Commit Calendar](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.isocalendar.fullyear.svg)
 ![Languages Activity](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.languages.details.svg)
 ![Achievements](https://github.com/abderahmentrabelsi/metrics/blob/master/metrics.plugin.achievements.compact.svg)
